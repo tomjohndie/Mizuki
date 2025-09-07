@@ -14,10 +14,10 @@ You can add dynamic cards that link to GitHub repositories, on page load, the re
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
-Create a GitHub repository card with the code `::github{repo="matsuzaka-yuki/Mizuki"}`.
+Create a GitHub repository card with the code `::github{repo="tomjohndie/Mizuki"}`.
 
 ```markdown
-::github{repo="matsuzaka-yuki/Mizuki"}
+::github{repo="tomjohndie/Mizuki"}
 ```
 
 ## Admonitions
