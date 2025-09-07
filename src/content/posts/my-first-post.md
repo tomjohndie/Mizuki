@@ -10,9 +10,7 @@ author: "张三"
 sourceLink: "https://github.com/zhangsan/vue3-guide"
 draft: false
 date: 2025-01-20
-image:
-  url: 'https://example.com/vue3-cover.jpg'
-  alt: 'Vue.js 3 组合式API指南封面'
+image: 'https://example.com/vue3-cover.jpg'
 pubDate: 2025-01-20
 ---
 
