@@ -10,7 +10,7 @@ author: "张三"
 sourceLink: "https://github.com/zhangsan/vue3-guide"
 draft: false
 date: 2025-01-20
-image: 'https://example.com/vue3-cover.jpg'
+image: "./cover.jpeg"
 pubDate: 2025-01-20
 ---
 
